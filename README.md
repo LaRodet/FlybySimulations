@@ -7,4 +7,4 @@ The first line is "q = ... ap".
 The second line contains the name of the columns.
 Each following line then corresponds to a simulation.
 
-The first column contains the initial longitude of the test particle (deg), the second and third contains the argument of periastron and inclination of the flyby trajectory with respect ot the test particle's orbital plane (deg). The fourth and fifth columns are the final value of the eccentricity and inclination (deg) of the initially circular test particle. Finally, the last column is the new semi-major axis of the test particle. 
+The first column contains the initial longitude of the test particle (deg), the second and third contains the argument of periastron and inclination of the flyby trajectory with respect ot the test particle's orbital plane (deg). The fourth and fifth columns are the final value of the eccentricity and inclination (deg) of the initially circular test particle. Finally, the last column is the new semi-major axis of the test particle (negative values corresponds to hyperbolic orbits). 
